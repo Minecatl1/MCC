@@ -1,0 +1,10 @@
+minecraft-dashboard/
+├── node_modules/
+├── public/
+│   └── index.html
+├── src/
+│   ├── WebSocketClient.js
+│   └── App.js
+├── .babelrc
+├── package.json
+└── webpack.config.js
